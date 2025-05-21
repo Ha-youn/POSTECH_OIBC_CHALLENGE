@@ -12,7 +12,7 @@
 * **대회명**: 제5회 POSTECH OIBC CHALLENGE
 * **주제**: 다종 태양광 발전 예측 모형의 앙상블 활용 방안 개발
 * **기간**: 2023년 10월 \~ 11월
-* **참가자**: Ha-youn, Jujack0x0
+* **참가자**: [Ha-youn](https://github.com/Ha-youn), [Jujack0x0](https://github.com/Jujack0x0)
 * **주최**: POSTECH 오픈이노베이션 빅데이터센터(OIBC), H에너지
 * **수상**: 장려상
 
